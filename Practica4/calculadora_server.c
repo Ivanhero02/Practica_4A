@@ -1,3 +1,4 @@
+//Programa servidor encargado de realizar las operaciones de acuerdo con lo solicitado por el cliente y devolver un resultado.
 #include "calculadora.h"
 
 float *suma_1_svc(valores *argp, struct svc_req *rqstp) {	//función que realiza cuando se solicita suma
