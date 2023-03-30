@@ -1,3 +1,4 @@
+//Codigo de ejecucion del cliente encargado de hacer las llamadas de las funciones que realizan las operaciones almacenadas en el servidor
 #include "calculadora.h"
 #include <stdio.h>
 #include <stdlib.h>
